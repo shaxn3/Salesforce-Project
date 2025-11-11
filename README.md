@@ -10,6 +10,6 @@ This repository contains the documentation and video demonstration of our Salesf
 
 ## 📂 Contents
 - **Documentation:** Detailed explanation of objects, flows, triggers, validation rules, and test cases.  
+  - [HandsMen Threads Documentation](https://drive.google.com/file/d/1QlbGp35tWvq9gYdfYaDtxdHYbo5u-ozP/view?usp=sharing)  
 - **Video Demonstration:** A complete walkthrough of the HandsMen Threads application and its features.  
-
-You can watch the video demonstration here: [HandsMen Threads Demo Video](https://drive.google.com/file/d/1zA1huW7hBtepeQGgAOliwwSSGWZ_YsLo/view?usp=sharing)
+  - [HandsMen Threads Demo Video](https://drive.google.com/file/d/1zA1huW7hBtepeQGgAOliwwSSGWZ_YsLo/view?usp=sharing)
